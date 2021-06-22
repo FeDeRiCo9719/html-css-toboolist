@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.biggest-box{
+    margin: auto;
+    background-color: rgb(217, 224, 224);
+    height: 700px;
+    width: 1100px;
+    margin-top: 100px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+header{
+    background-color: white;
+    border: 1px solid black;
+    height: 70px;
+}
+
+.header-box{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+#titolo{
+    display: inline-block;
+    font-family: Helvetica;
+    font-size: 40px;
+    vertical-align: middle;
+}
+
+.logo{
+    vertical-align: middle;
+}
