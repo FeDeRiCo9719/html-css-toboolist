@@ -117,25 +117,27 @@ li{
 }
 
 .circle{
-    background-color: rgb(20, 231, 55);
+    border: 1px solid green;
+    background-color: rgb(255, 255, 255);
     border-radius: 50%;
     width: 20px;
     height: 20px;
     display: inline-block;
     text-align: center;
     line-height: 20px;
-    color: white;
+    color: green;
 }
 
 .redcircle{
-    background-color: rgb(238, 40, 5);
+    border: 1px solid red;
+    background-color: rgb(255, 255, 255);
     border-radius: 50%;
     width: 20px;
     height: 20px;
     display: inline-block;
     text-align: center;
     line-height: 20px;
-    color: white;
+    color: red;
 }
 
 /* speciali */
@@ -169,7 +171,7 @@ li{
 
 .specialC{
     display: inline-block;
-    background-color: rgb(93, 177, 118);
+    background-color: rgb(34, 192, 158);
     border-radius: 10px;
     font-size: 10px;
     color: white;
